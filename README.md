@@ -1,5 +1,5 @@
 <p align="center" display="">  
- <img src="https://github.com/livesystemlab/livesystemlab/blob/main/Avatar-Maker.png" width="40%" height="40%"  />  
+ <img src="https://github.com/livesystemlab/livesystemlab/blob/main/Avatar-Maker.png" width="30%" height="30%"  />  
 </p>
 
 
@@ -37,5 +37,9 @@
  
 </p>
 
-
+<p align="center"> 
+ <img src=""  width="" height=""   />
+ 
+ 
+</p>
   
