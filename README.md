@@ -24,7 +24,7 @@
 
 <p align="center" display="block">
    <img src="https://github.com/livesystemlab/livesystemlab/blob/main/javascript_original_logo_icon_146455.png"   /> 
-   
+   <img src="https://github.com/livesystemlab/livesystemlab/blob/main/jquery_plain_wordmark_logo_icon_146445.png" />
  
  
 </p>
