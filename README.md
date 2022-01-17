@@ -13,11 +13,20 @@
 
 <p align="center" display="block">  
  <img src="https://github.com/livesystemlab/livesystemlab/blob/main/python_18894.png"   />  
+ 
  <img src="https://github.com/livesystemlab/livesystemlab/blob/main/ruby_plain_wordmark_logo_icon_146362.png"   />  
  <img src="https://github.com/livesystemlab/livesystemlab/blob/main/html_plain_wordmark_logo_icon_146476.png"   /> 
   <img src="https://github.com/livesystemlab/livesystemlab/blob/main/css_plain_wordmark_logo_icon_146574.png"   /> 
    <img src="https://github.com/livesystemlab/livesystemlab/blob/main/bootstrap_plain_wordmark_logo_icon_146620.png"   /> 
-  <img src="https://github.com/livesystemlab/livesystemlab/blob/main/javascript_original_logo_icon_146455.png"   /> 
+ 
+</p>
+
+
+<p align="center" display="block">
+   <img src="https://github.com/livesystemlab/livesystemlab/blob/main/javascript_original_logo_icon_146455.png"   /> 
+   
+ 
+ 
 </p>
 
 
