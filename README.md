@@ -14,7 +14,7 @@
 <p align="center" display="block">  
  <img src="https://github.com/livesystemlab/livesystemlab/blob/main/python_18894.png"   />  
  <img src="https://github.com/livesystemlab/livesystemlab/blob/main/ruby_plain_wordmark_logo_icon_146362.png"   />  
- <img src="https://github.com/livesystemlab/livesystemlab/blob/main/"   /> 
+ <img src="https://github.com/livesystemlab/livesystemlab/blob/main/html_plain_wordmark_logo_icon_146476.png"   /> 
   <img src="https://github.com/livesystemlab/livesystemlab/blob/main/"   /> 
    <img src="https://github.com/livesystemlab/livesystemlab/blob/main/"   /> 
   <img src="https://github.com/livesystemlab/livesystemlab/blob/main/"   /> 
