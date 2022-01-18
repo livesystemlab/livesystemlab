@@ -6,6 +6,15 @@
 ANOTHER CRAZY COMPUTER GUY WITH STEROIDS POWER! 😎 :feelsgood: 💊 💪 😈 
 </h2> 
 
+<h3 align="center" display="">
+ABOUT ME ☣️ 😎 🙌
+</h3>
+
+<p align="center">
+ 
+ 
+</p>
+
 
 ### <p align="center"> LIVE SYSTEM CYBERSECURITY LABORATORIES REPOSITORY SOFTWARE  👽 😎 💻 🖥️  </p>
 
@@ -57,8 +66,7 @@ ANOTHER CRAZY COMPUTER GUY WITH STEROIDS POWER! 😎 :feelsgood: 💊 💪 😈
 
 <br>
 
+<br>
 
-
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=livesystemlab)](https://github.com/livesystemlab/github-readme-stats)
 
