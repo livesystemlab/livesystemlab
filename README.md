@@ -34,7 +34,7 @@ ABOUT ME ☣️ 😎 🙌
 <br>
 
 <h4 align="center" display="">
- 📑 🖊️ 📝 My Cybersecurity Blogs ✍️
+ 📑 🖊️ 📝 My Cybersecurity Blogs: ✍️
  <br>
  <a href="">  The Pentester Diaries 2.0 📙 </a>
  <br>
@@ -42,7 +42,13 @@ ABOUT ME ☣️ 😎 🙌
  <br>
  </h4>
 
-
+ <br>
+ 
+ <h4 align="center" display="">
+ 🕸️ 🌎 Live System Cybersecurity Labs Website:   💻 ⌨️ 🖱️ 🖥️
+ <br>
+ <a href="">  📄 Live System Labs Website </a>
+ </h4>
 
 <br>
 
