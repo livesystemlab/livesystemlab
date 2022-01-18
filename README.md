@@ -63,11 +63,15 @@ ABOUT ME ☣️ 😎 🙌
 <h3 align="center" display="block">
  🤪 🙋‍♂️ Social Networks:  💾 🤪
  </br>
- <a href="https://www.facebook.com" target="_blank">   <img src="https://github.com/livesystemlab/livesystemlab/blob/main/facebook.png"  width="40px" height="40px" alt="facebook_icon" />   </a>
- <a href="" target="_blank">   <img src=""  width="40px" height="40px" alt="twitter_icon" />     </a>
-  <a href="" target="_blank">   <img src=""  width="40px" height="40px" alt="" />     </a>
- <a href="" target="_blank">   <img src=""  width="40px" height="40px" alt="" />     </a>
-  
+ <a href="https://www.facebook.com/" target="_blank">   <img src="https://github.com/livesystemlab/livesystemlab/blob/main/facebook.png"  width="40px" height="40px" alt="facebook_icon" />   </a>
+ <a href="https://www.twitter.com/" target="_blank">   <img src="https://github.com/livesystemlab/livesystemlab/blob/main/twitter.png"  width="40px" height="40px" alt="twitter_icon" />     </a>
+  <a href="https://www.instagram.com/" target="_blank">   <img src="https://github.com/livesystemlab/livesystemlab/blob/main/instagram.png"  width="40px" height="40px" alt="instagram_icon" />     </a>
+ <a href="https://www.discord.com/" target="_blank">   <img src="https://github.com/livesystemlab/livesystemlab/blob/main/discord.png"  width="40px" height="40px" alt="discord_icon" />     </a>
+ <a href="https://www.youtube.com/" target="_blank">   <img src="https://github.com/livesystemlab/livesystemlab/blob/main/youtube.png"   width="40px" height="40px" alt="youtube_icon" />   </a>
+ <a href="https://www.whatsapp.com/" target="_blank">   <img src="https://github.com/livesystemlab/livesystemlab/blob/main/whatsapp.png"  width="40px" height="40px" alt="whatsapp_icon"  />   </a>
+ <a href="https://www.linkedin.com/" target="_blank">    <img src="https://github.com/livesystemlab/livesystemlab/blob/main/linkedin.png" width="40px" height="40px" alt="linkedin_icon" />   </a>
+  <a href="https://www.telegram.com/" target="_blank">   <img src="https://github.com/livesystemlab/livesystemlab/blob/main/telegram.png" width="40px" height="40px" alt="telegram_icon"  />   </a>
+  <a href="https://www.tiktok.com/" target="_blank">  <img src="https://github.com/livesystemlab/livesystemlab/blob/main/tiktok.png" width="40px" height="40px" alt="tiktok_icon" />   </a>
 </h3>
 
 
