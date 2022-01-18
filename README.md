@@ -122,9 +122,16 @@ ABOUT ME ☣️ 😎 🙌
   ```python
 class the_pentester_diaries:
       
-      def Skills()
-          python = self.python
-          java = self.java
+      def Skills(self, python, java, csharp, html, javascript,css3)
+          self.python = python
+          self.java = java
+          self.csharp = cscharp
+          self.html = html
+          self.javascript = javascript
+          self.css3 = css3
+      
+      return 
+          
 
 
 
