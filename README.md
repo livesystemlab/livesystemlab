@@ -2,6 +2,9 @@
  <img src="https://github.com/livesystemlab/livesystemlab/blob/main/Avatar-Maker.png" width="28%" height="28%"  />  
 </p>
 
+<h2 align="center">
+ANOTHER CRAZY COMPUTER WITH STEROIDS POWER! 😎 :feelsgood: 💊 💪 😈 
+</h2> 
 
 
 ### <p align="center"> LIVE SYSTEM CYBERSECURITY LABORATORIES 👽 😎 💻 🖥️  </p>
