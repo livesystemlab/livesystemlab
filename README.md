@@ -25,8 +25,26 @@ ABOUT ME ☣️ 😎 🙌
  <br>
   -  🔒 🔓 🕵️ I like And I have Skills In Ethical Hacking,  Cybersecurity And Information Security 🔑
  
+ <br>  
+  - 🕵️‍♂️ 📚 I like Learning Forensics Computer And Cyber Crime 🗄️ 
+ <br> 
+ 
 </p>
 
+<br>
+
+<h4 align="center" display="">
+ 📑 🖊️ 📝 My Cybersecurity Blogs ✍️
+ <br>
+ <a href="">  The Pentester Diaries 2.0 📙 </a>
+ <br>
+ <a href="">  The Pentester Diaries 3.0 📘 </a>
+ <br>
+ </h4>
+
+
+
+<br>
 
 ### <p align="center"> LIVE SYSTEM CYBERSECURITY LABORATORIES REPOSITORY SOFTWARE  👽 😎 💻 🖥️  </p>
 
