@@ -8,7 +8,7 @@
 ### <p align="center"> THE PENTESTER DIARIES PUBLIC REPOSITORY  SOFTWARE 🖱️ :hurtrealbad: 😝  💀 ☠️ 🔒  </p>
 
 <p align="center">  <img src="https://github.com/livesystemlab/livesystemlab/blob/main/HEADER_PENTESTER.png" width=""  height="" />     </p>
-<p align="center">  <img src="" width="" height=""  />   </p>
+<p align="center">  <img src="https://github.com/livesystemlab/livesystemlab/blob/main/Metal_slug.gif" width="" height=""  />   </p>
 
 
 ### <p align="center">  Programming Computer Languajes  💻   🕶️   ❤️</p>
