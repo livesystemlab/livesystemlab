@@ -11,7 +11,17 @@ ABOUT ME ☣️ 😎 🙌
 </h3>
 
 <p align="center">
- 
+  - ⚡ I love Computer Programming With ☕ and 🍞
+ <br>
+  - 📖 I Addicted to Learning Data Science 🤖 And Artificial Intelligence 🤩
+<br>
+  - :electron: I Learning Actually Quantum Computer And Other Futuristic Technologies 🥼
+  <br>
+  -  🖱️ ⌨️ I Working in a personal portfolio Automatically System for help proffesionals ⚛️
+ <br>
+  -  💼 I Am Software Engineer Freelance 🔧
+ <br>
+  -  🤑 I like to trade cryptocurrencies in my spare time for future investment 💰
  
 </p>
 
