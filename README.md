@@ -38,7 +38,7 @@ ABOUT ME ☣️ 😎 🙌
  <br>
  <a href="">  The Pentester Diaries 2.0 📙 </a>
  <br>
- <a href="">  The Pentester Diaries 3.0 📘 </a>
+ <a href="https://www.livesystemmlabs.com/blog">  The Pentester Diaries 3.0 📘 </a>
  <br>
  </h4>
 
@@ -51,6 +51,12 @@ ABOUT ME ☣️ 😎 🙌
  </h4>
 
 <br>
+
+<h4 align="center" display="" >
+My Website Portfolio Professional  
+ <br>
+</h4>
+
 
 ### <p align="center"> LIVE SYSTEM CYBERSECURITY LABORATORIES REPOSITORY SOFTWARE  👽 😎 💻 🖥️  </p>
 
