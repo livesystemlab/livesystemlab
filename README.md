@@ -44,7 +44,4 @@ ANOTHER CRAZY COMPUTER GUY WITH STEROIDS POWER! 😎 :feelsgood: 💊 💪 😈
 </br>
 </br>
 
-<p align="center"> 
- <img src=""  width="" height=""   />
-</p>
   
