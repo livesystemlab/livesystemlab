@@ -119,11 +119,15 @@ ABOUT ME ☣️ 😎 🙌
 </br>
 </br>
 
-  ```html
-<html>
-  <head>
-  </head>
-</html>
+  ```python
+class the_pentester_diaries:
+      
+      def Skills()
+          python = self.python
+          java = self.java
+
+
+
 ```  
 
 <br>
