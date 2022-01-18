@@ -122,15 +122,25 @@ ABOUT ME ☣️ 😎 🙌
   ```python
 class the_pentester_diaries:
       
-      def Skills(self, python, java, csharp, html, javascript,css3)
+      def __init__(self, python, java, csharp, html, javascript,css3, level):
           self.python = python
           self.java = java
           self.csharp = cscharp
           self.html = html
           self.javascript = javascript
           self.css3 = css3
-      
-      return 
+          self.level  = level
+          print("I Have Skills " , python , java , cscharp, html, javascript, css3)
+          print("\t")
+          print("the level of the skills is ", level)
+          
+      def skills_level(self):
+          if self.level == 0:
+             print("you havent this skill yet")
+          else:
+             print("you have this skill")
+          
+          
           
 
 
