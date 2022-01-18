@@ -22,6 +22,8 @@ ABOUT ME ☣️ 😎 🙌
   -  💼 I Am Software Engineer Freelance 🔧
  <br>
   -  🤑 I like to trade cryptocurrencies in my spare time for future investment 💰
+ <br>
+  -  🔒 🔓 🕵️ I like And I have Skills In Ethical Hacking,  Cybersecurity And Information Security 🔑
  
 </p>
 
