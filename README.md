@@ -63,8 +63,8 @@ ABOUT ME ☣️ 😎 🙌
 <h3 align="center" display="block">
  🤪 🙋‍♂️ Social Networks: 
  </br>
- <a href="">   <img src=""  width="" height="" alt="facebook_icon" />   </a>
- <a href="">   <img src=""  width="" height="" alt="twitter_icon" />     </a>
+ <a href="" target="_blank">   <img src=""  width="" height="" alt="facebook_icon" />   </a>
+ <a href="" target="_blank">   <img src=""  width="" height="" alt="twitter_icon" />     </a>
 </h3>
 
 
