@@ -58,6 +58,15 @@ ABOUT ME ☣️ 😎 🙌
  <a href="">  🏅 🏆 👨‍🎓 The Pentester Diaries Portfolio Website        </a>
 </h4>
 
+<br>
+
+<h3 align="center" display="block">
+ 🤪  Social Networks: 
+ </br>
+ <a href="">   facebook    </a>
+ <a href="">   twitter     </a>
+</h3>
+
 
 ### <p align="center"> LIVE SYSTEM CYBERSECURITY LABORATORIES REPOSITORY SOFTWARE  👽 😎 💻 🖥️  </p>
 
