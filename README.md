@@ -3,7 +3,7 @@
 </p>
 
 <h2 align="center">
-ANOTHER CRAZY COMPUTER WITH STEROIDS POWER! 😎 :feelsgood: 💊 💪 😈 
+ANOTHER CRAZY COMPUTER GUY WITH STEROIDS POWER! 😎 :feelsgood: 💊 💪 😈 
 </h2> 
 
 
