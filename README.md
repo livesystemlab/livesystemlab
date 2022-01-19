@@ -74,7 +74,7 @@ ABOUT ME ☣️ 😎 🙌
   <a href="https://www.telegram.com/" target="_blank">   <img src="https://github.com/livesystemlab/livesystemlab/blob/main/telegram.png" width="40px" height="40px" alt="telegram_icon"  />   </a>
   <a href="https://www.tiktok.com/" target="_blank">  <img src="https://github.com/livesystemlab/livesystemlab/blob/main/tiktok.png" width="40px" height="40px" alt="tiktok_icon" />   </a>
  <a href="https://" target="_blank">   <img src="https://github.com/livesystemlab/livesystemlab/blob/main/snapchat.png" width="40px" height="40px" alt=""  />   </a>  
- <a href="https://" target="_blank">   <img src="" width="40px" height="40px" alt="" />  </a>
+ <a href="https://" target="_blank">   <img src="https://github.com/livesystemlab/livesystemlab/blob/main/skype.png" width="40px" height="40px" alt="" />  </a>
  <a href="https://" target="_blank">   <img src="" width="40px" height="40" alt="" />  </a>
  <a href="https://" target="_blank">  <img src="" width="40px" height="40px" alt="" />  </a>
  
