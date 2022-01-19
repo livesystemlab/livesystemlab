@@ -120,6 +120,7 @@ ABOUT ME ☣️ 😎 🙌
 </br>
 
   ```python
+ import datetime
 class the_pentester_diaries:
       
       def __init__(self, python, java, csharp, html, javascript,css3, level):
@@ -150,7 +151,12 @@ class the_pentester_diaries:
           
       def say_my_name():
           name = "luis angel favela"
+          birthday_year = 1993
+          actually_age =  datetime.date.today()
+          actually_age_birthday = actually_age -  birthday_year
           
+      return "my name is " + name + "my age is " + actually_age_birthday
+         
 
 
 ```  
