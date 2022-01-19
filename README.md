@@ -80,7 +80,7 @@ ABOUT ME ☣️ 😎 🙌
 </h3>
 
 
-<h3 align="center" display="">
+<h3 align="center" display="block">
     🎧 📱 🛒 MOBILE APPS SHOP OFFICIAL 🎧 📱 🛍️
     ⚡ Google Play 
     <a href="https://www.googleplay.com" target="_blank">   <img src="" width="" height="" alt="google_play_icon" />   </a>
