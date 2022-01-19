@@ -87,7 +87,7 @@ ABOUT ME ☣️ 😎 🙌
     ⚡ Google Play 
     </br>
     </br>
-    <a href="https://www.googleplay.com" target="_blank">   <img src="https://github.com/livesystemlab/livesystemlab/blob/main/google_play.png" width="402px" height="159px" alt="google_play_icon" />   </a>
+    <a href="https://www.googleplay.com" target="_blank">   <img src="https://github.com/livesystemlab/livesystemlab/blob/main/google_play.png" width="302px" height="119px" alt="google_play_icon" />   </a>
     
  
  </h3>
