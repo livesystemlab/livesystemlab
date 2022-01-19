@@ -188,7 +188,7 @@ my_blog.skills_level(100)
 
 
 <h4 align="center" display="block">
- Buy A Beer 
+ 
  <a href="" target="_blank">   <img src="" width="" height="" alt="" />    </a>
  
 </h4>
