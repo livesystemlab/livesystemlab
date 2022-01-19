@@ -140,7 +140,10 @@ class the_pentester_diaries:
           else:
              print("you have this skill")
           
-          
+      def languaje(self):
+           if self.html == 0:
+              print("you dont have this skill ")
+          elif self.
           
 
 
