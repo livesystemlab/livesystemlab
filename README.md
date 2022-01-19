@@ -154,9 +154,13 @@ class the_pentester_diaries:
           birthday_year = 1993
           actually_age =  datetime.date.today()
           actually_age_birthday = actually_age -  birthday_year
-          
-      return "my name is " + name + "my age is " + actually_age_birthday
+       return "my name is " + name + "my age is " + actually_age_birthday
+       
+       
          
+my_blog = the_pentester_diaries()
+my_blog.say_my_name()
+my_blog.skills_level(100)
 
 
 ```  
