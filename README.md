@@ -147,7 +147,9 @@ class the_pentester_diaries:
               print("you have earned the programming python")
           elif self.java != false:
               print("you have earned the programming java")
-              
+          
+      def say_my_name():
+          name = "luis angel favela"
           
 
 
