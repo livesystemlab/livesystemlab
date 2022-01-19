@@ -191,6 +191,7 @@ my_blog.skills_level(100)
  </br>
  🥴  Buy A Beer 🙃
  </br>
- <a href="" target="_blank">   <img src="" width="" height="" alt="" />    </a>
+ <br>
+ <a href="" target="_blank">   <img src="https://github.com/livesystemlab/livesystemlab/blob/main/beer.png" width="60px" height="60px" alt="beer_icon_donate_programmer" />    </a>
  
 </h4>
