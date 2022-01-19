@@ -96,7 +96,7 @@ ABOUT ME ☣️ 😎 🙌
 
 
 ### <p align="center">  Programming Computer Languajes  💻   🕶️   ❤️</p>
-### <p align="center">  Coding With Love  ☕ 👊  </p>
+### <p align="center">  Coding With 💖  </p>
 
 
 <p align="center" display="block">  
@@ -143,9 +143,12 @@ class the_pentester_diaries:
       def languaje(self):
            if self.html == 0:
               print("you dont have this skill ")
-          elif self.
+          elif self.python != false:
+              print("you have earned the programming python")
+          elif self.java != false:
+              print("you have earned the programming java")
+              
           
-
 
 
 ```  
