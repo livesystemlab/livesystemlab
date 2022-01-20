@@ -36,7 +36,7 @@ ABOUT ME ☣️ 😎 🙌
 <h4 align="center" display="">
  📑 🖊️ 📝 My Cybersecurity Blogs: ✍️
  <br>
- <a href="">  The Pentester Diaries 2.0 📙 </a>
+ <a href="https://www.thepentesterdiaries.blogspot.com">  The Pentester Diaries 2.0 📙 </a>
  <br>
  <a href="https://www.livesystemmlabs.com/blog">  The Pentester Diaries 3.0 📘 </a>
  <br>
