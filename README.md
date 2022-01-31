@@ -99,6 +99,14 @@ ABOUT ME ☣️ 😎 🙌
 
 <p align="center">  <img src="https://github.com/livesystemlab/livesystemlab/blob/main/BrowserPreview_tmp.gif" width="80%"  height="80%" alt="banner_live_system" />     </p>
 
+</br>
+</br>
+
+### <p align="center">  👽 💻  🖱️  LIVE SYSTEM CYBERSECURITY LABS SOFTWARE PUBLIC SOFTWARE BANNER V2 👽 😎         </p>
+<p align="center">  <img src="" width="80%"  height="80%" alt="banner_live_system_v2" />   </p>
+
+
+
 
 
 ### <p align="center"> THE PENTESTER DIARIES PUBLIC REPOSITORY  SOFTWARE 🖱️ :hurtrealbad: 😝  💀 ☠️ 🔒  </p>
