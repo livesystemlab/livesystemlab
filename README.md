@@ -103,7 +103,7 @@ ABOUT ME ☣️ 😎 🙌
 </br>
 
 ### <p align="center">  👽 💻  🖱️  LIVE SYSTEM CYBERSECURITY LABS SOFTWARE PUBLIC SOFTWARE BANNER V2 👽 😎         </p>
-<p align="center">  <img src="" width="80%"  height="80%" alt="banner_live_system_v2" />   </p>
+<p align="center">  <img src="https://github.com/livesystemlab/livesystemlab/blob/main/hacking_effect_live_systemlabs_banner.gif" width="80%"  height="80%" alt="banner_live_system_v2" />   </p>
 
 
 
