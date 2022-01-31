@@ -97,7 +97,7 @@ ABOUT ME ☣️ 😎 🙌
 
 ### <p align="center"> 👽  😎 😠 LIVE SYSTEM CYBERSECURITY LABORATORIES REPOSITORY SOFTWARE  👽 😎 💻 🖥️  </p>
 
-<p align="center">  <img src="https://github.com/livesystemlab/livesystemlab/blob/main/BrowserPreview_tmp.gif" width="70%"  height="70%" alt="banner_live_system" />     </p>
+<p align="center">  <img src="https://github.com/livesystemlab/livesystemlab/blob/main/BrowserPreview_tmp.gif" width="80%"  height="80%" alt="banner_live_system" />     </p>
 
 
 
